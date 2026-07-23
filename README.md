@@ -56,3 +56,4 @@ components/
   wire them to a real endpoint (email/SMS/CRM) before launch.
 - Replace the `ImageSlot` placeholders with `next/image` and real photography.
 # kerema-open-01
+# kerema-open-01
