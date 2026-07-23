@@ -57,3 +57,4 @@ components/
 - Replace the `ImageSlot` placeholders with `next/image` and real photography.
 # kerema-open-01
 # kerema-open-01
+# kerema-open-02
